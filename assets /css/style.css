@@ -118,8 +118,8 @@ body {
 }
 
 .btn--blue {
-    border-color: blue;
-    color: blue;
+    border-color: palevioletred;
+    color: palevioletred;
 }
 
 .btn--blue:active,
